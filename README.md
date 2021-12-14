@@ -3,7 +3,7 @@
 with you have some advices or some teaching for improve my code let me know 
 thanks!
 
-##Game made using only 
+## Game made using only 
 
 * Html
 * Css
