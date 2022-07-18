@@ -9,6 +9,6 @@ thanks!
 * Css
 * JavaScript
 
-![snake-game](https://helloacm.com/wp-content/uploads/2019/12/simple-snake-game-in-javascript.jpg)
 
 
+![Sem título](https://user-images.githubusercontent.com/86896821/179618193-afe24aa7-e9f0-4293-81f9-b97a55724107.png)
